@@ -1,0 +1,43 @@
+html {
+	background-color: pink;
+}
+
+#druhy {
+	color: #902390;
+
+}
+
+ul li {
+		border: solid;
+		border-color: green;
+}	
+
+#prvni {
+	color: darkviolet;
+	font-style: italic;
+	text-align: center;
+}
+
+.prvni-trida {
+	font-style: italic;
+	color: blue;
+}
+
+.tucna-trida {
+	font-weight: bold;
+	color: brown;
+
+}
+
+th.tucna-trida {
+	font-size: 30px;
+}
+
+.oramovane {
+	border: dashed;
+}
+
+.highlight {
+	color:  blue;
+	font-weight: bold;
+}
